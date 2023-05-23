@@ -1,4 +1,4 @@
-# Voice Assistent for Discord 
+# Voice Assistant for Discord 
 
 Huge thanks to ErnestAroozoo for [GPT-Discord-Chatbot](https://github.com/ErnestAroozoo/GPT-Discord-Chatbot)
 
